@@ -1,0 +1,7 @@
+Saya Rio Ramadhan Bahtiar mengerjakan evaluasi TP5 DPBO dalam praktikum mata kuliah
+Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak 
+melakukan kecurangan seperti yang telah dispesifikasikan.
+Aamiin.
+
+NB : Kalau misalkan ada error/kesalahan di folder ModulGame, bisa didownload ModulGame.rar nya
+soalnya pas upload folder ModulGame ada trouble di Githubnya.
